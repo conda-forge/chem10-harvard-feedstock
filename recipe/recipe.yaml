@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.0.2.2"
+  version: "0.0.3"
   python_min: "3.12"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/C/CHEM10-Harvard/chem10_harvard-${{ version }}.tar.gz
-  sha256: 9101ecb987c3606b85710ecceb57d828f8c182a72f491a61f018ae2bdbb6e136
+  sha256: 984198854399481488b683461c18bd1806f0eeebcc2c9414df76e97f66ed748e
 
 build:
   number: 0
